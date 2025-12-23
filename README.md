@@ -1,4 +1,11 @@
-Particle Morphing LLM
+What is this Project about?
+
+What you see is a Website Template that can be used and customized and connects your internal AI Services (like LLM-API connectionss)
+to a fully functional modern website.
+
+
+Name:
+Particle Morphing LLM Template
 
 A Website with particles that can connected to any LLM via API and interacts with the users input
 
