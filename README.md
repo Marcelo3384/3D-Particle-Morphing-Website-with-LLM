@@ -5,7 +5,8 @@ A Website with particles that can connected to any LLM via API and interacts wit
 
 1 Home Page:
 
-<img width="2522" height="1163" alt="image" src="https://github.com/user-attachments/assets/b4542178-f770-4c25-a33e-5685b78dbaac" />
+<img width="2535" height="1165" alt="image" src="https://github.com/user-attachments/assets/b730705e-647c-4392-83eb-984514d0ca38" />
+
 
 
 
