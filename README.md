@@ -10,6 +10,15 @@ Home Page:
 
 
 
+
 Agent Network:
 
 <img width="2523" height="1201" alt="image" src="https://github.com/user-attachments/assets/d56c506b-0289-4fd8-ab35-1f37331bbbd6" />
+
+
+
+
+
+Machine Learning:
+
+<img width="2522" height="1177" alt="image" src="https://github.com/user-attachments/assets/04bcb397-1584-4bf4-b8cb-3251cbbe4056" />
