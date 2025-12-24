@@ -1,3 +1,5 @@
+AI Platform with interactive particle morphing
+
 **What is this Project about?**
 
 The Particle Morphing LLM Template is a modern, interactive website template featuring a particle-based UI that connects to any LLM via API.
