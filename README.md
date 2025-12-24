@@ -1,28 +1,23 @@
-AI Platform with interactive particle morphing
 
 **What is this Project about?**
 
-The Particle Morphing LLM Template is a modern, interactive website template featuring a particle-based UI that connects to any LLM via API.
+AI Platform with Interactive Particle Morphing
 
-It serves as a frontend layer between users and your internal AI services, enabling secure interaction with LLMs, AI agents, and machine learning models while keeping full control over your data and infrastructure.
+The Particle Morphing LLM Template is a modern, interactive web platform that acts as a bridge between your company’s AI infrastructure and the end user.
 
-A secure and customizable website template for integrating LLMs without exposing private or company data. Connect your internal AI services—such as Azure-hosted models—to a modern web interface while keeping full control over your data.
+It provides a fully customizable, particle-based user interface that connects to any Large Language Model (LLM) via API, allowing users to interact securely with internal AI services without exposing private or company data.
 
-Have you ever wanted to use Large Language Models (LLMs) and their AI capabilities without risking the exposure of private or company data, or having your data reused for LLM training?
+The entire website—including navigation, pages, and UI components—is designed to be fully extensible and customizable, making it easy to add new AI services, tools, or workflows as your platform evolves.
 
-This template provides exactly that.
+Beyond basic LLM interaction, the template also includes:
 
-It acts as a secure platform where you can integrate any LLM as long as you have an API key. For maximum data privacy, the recommended approach is to deploy your own model using Azure AI Foundry or other enterprise-grade providers, ensuring that all data remains within your organization.
+A dedicated AI agent platform where you can track executed tasks, capabilities, and agent behavior
 
-What you get is a modern, customizable website template that connects seamlessly to your internal AI services (such as LLM APIs) and delivers a fully functional, production-ready web interface.
+A Machine Learning section for integrating and running model training workflows
 
+For maximum data privacy and enterprise use cases, the platform is ideally suited for self-hosted or cloud-deployed models (such as Azure AI Foundry or other providers), ensuring that all data remains within your organization.
 
-
-
-On top of the core LLM integration, this template also provides a dedicated platform for AI agents (see picture 2), where you can monitor their executed tasks, capabilities, and behavior in a structured way.
-
-Additionally, it includes a Machine Learning tab that allows you to integrate and run training workflows for ML models, making the platform extensible beyond pure LLM usage.
-
+In short, this project serves as a secure, modular LLM bridge—connecting users to powerful AI capabilities through a modern, customizable web experience.
 
 1 Home Page:
 
