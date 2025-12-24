@@ -1,7 +1,14 @@
-What is this Project about?
+**What is this Project about?**
 
-What you see is a Website Template that can be used and customized and connects your internal AI Services (like LLM-API connectionss)
-to a fully functional modern website.
+A secure and customizable website template for integrating LLMs without exposing private or company data. Connect your internal AI services—such as Azure-hosted models—to a modern web interface while keeping full control over your data.
+
+Have you ever wanted to use Large Language Models (LLMs) and their AI capabilities without risking the exposure of private or company data, or having your data reused for LLM training?
+
+This template provides exactly that.
+
+It acts as a secure platform where you can integrate any LLM as long as you have an API key. For maximum data privacy, the recommended approach is to deploy your own model using Azure AI Foundry or other enterprise-grade providers, ensuring that all data remains within your organization.
+
+What you get is a modern, customizable website template that connects seamlessly to your internal AI services (such as LLM APIs) and delivers a fully functional, production-ready web interface.
 
 
 Name:
