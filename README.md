@@ -1,5 +1,9 @@
 **What is this Project about?**
 
+The Particle Morphing LLM Template is a modern, interactive website template featuring a particle-based UI that connects to any LLM via API.
+
+It serves as a frontend layer between users and your internal AI services, enabling secure interaction with LLMs, AI agents, and machine learning models while keeping full control over your data and infrastructure.
+
 A secure and customizable website template for integrating LLMs without exposing private or company data. Connect your internal AI services—such as Azure-hosted models—to a modern web interface while keeping full control over your data.
 
 Have you ever wanted to use Large Language Models (LLMs) and their AI capabilities without risking the exposure of private or company data, or having your data reused for LLM training?
@@ -11,10 +15,11 @@ It acts as a secure platform where you can integrate any LLM as long as you have
 What you get is a modern, customizable website template that connects seamlessly to your internal AI services (such as LLM APIs) and delivers a fully functional, production-ready web interface.
 
 
-Name:
-Particle Morphing LLM Template
 
-A Website with particles that can connected to any LLM via API and interacts with the users input
+
+On top of the core LLM integration, this template also provides a dedicated platform for AI agents (see picture 2), where you can monitor their executed tasks, capabilities, and behavior in a structured way.
+
+Additionally, it includes a Machine Learning tab that allows you to integrate and run training workflows for ML models, making the platform extensible beyond pure LLM usage.
 
 
 1 Home Page:
