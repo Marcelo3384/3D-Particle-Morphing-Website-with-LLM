@@ -9,6 +9,8 @@ It provides a fully customizable, particle-based user interface that connects to
 
 The entire website—including navigation, pages, and UI components—is designed to be fully extensible and customizable, making it easy to add new AI services, tools, or workflows as your platform evolves.
 
+It also runs with Docker, so its very lightweight and portable.
+
 Beyond basic LLM interaction, the template also includes:
 
 A dedicated AI agent platform where you can track executed tasks, capabilities, and agent behavior
